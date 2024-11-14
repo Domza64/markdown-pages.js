@@ -1,1 +1,2 @@
-[markdown-pages.js](.)
+[Home](.)
+[Test](?page=test)
